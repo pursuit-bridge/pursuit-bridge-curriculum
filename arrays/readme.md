@@ -146,7 +146,7 @@ You can also iterate with a different number of steps:
 
 ```js
 for (let i = 1; i < backpack.length; i += 2) {
-  console.log(`A rouge is trying to steal my ${backpack[i]}!!!`);
+  console.log(`A rogue is trying to steal my ${backpack[i]}!!!`);
 }
 // A rogue is trying to steal my map!!!
 // A rogue is trying to steal my tent!!!
